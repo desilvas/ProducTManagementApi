@@ -1,0 +1,8 @@
+{
+    "Id": "c7eea45e-c222-4ae9-853b-64b226b6a627",
+    "Name": "Samsung Galaxy S20",
+    "Description": "Newest mobile product from Samsung.",
+    "Price": 10,
+    "DeliveryPrice": 10
+}
+

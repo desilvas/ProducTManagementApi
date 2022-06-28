@@ -1,0 +1,16 @@
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\Database\Database.mdf
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\Database\Database_log.ldf
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\ProductManagement.EntityFramework.dll.config
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\ProductManagement.EntityFramework.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\ProductManagement.EntityFramework.pdb
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\EntityFramework.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\ProductManagement.Data.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\ProductManagement.Data.pdb
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\EntityFramework.xml
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\obj\Debug\ProductManagement.EntityFramework.csprojAssemblyReference.cache
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\obj\Debug\ProductManagement.EntityFramework.csproj.CoreCompileInputs.cache
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\obj\Debug\ProductManagement.EntityFramework.csproj.CopyComplete
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\obj\Debug\ProductManagement.EntityFramework.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.EntityFramework\obj\Debug\ProductManagement.EntityFramework.pdb

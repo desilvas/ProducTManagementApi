@@ -1,0 +1,11 @@
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\bin\Debug\ProductManagement.Domain.Service.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\bin\Debug\ProductManagement.Domain.Service.pdb
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\bin\Debug\ProductManagement.Data.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\bin\Debug\ProductManagement.Domain.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\bin\Debug\ProductManagement.Data.pdb
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\bin\Debug\ProductManagement.Domain.pdb
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\obj\Debug\ProductManagement.Domain.Service.csprojAssemblyReference.cache
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\obj\Debug\ProductManagement.Domain.Service.csproj.CoreCompileInputs.cache
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\obj\Debug\ProductManagement.Domain.Service.csproj.CopyComplete
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\obj\Debug\ProductManagement.Domain.Service.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Domain.Service\obj\Debug\ProductManagement.Domain.Service.pdb

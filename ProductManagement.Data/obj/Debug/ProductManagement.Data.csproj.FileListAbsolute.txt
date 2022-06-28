@@ -1,0 +1,6 @@
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Data\bin\Debug\ProductManagement.Data.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Data\bin\Debug\ProductManagement.Data.pdb
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Data\obj\Debug\ProductManagement.Data.csproj.CoreCompileInputs.cache
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Data\obj\Debug\ProductManagement.Data.dll
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Data\obj\Debug\ProductManagement.Data.pdb
+E:\New Zealand\Datacom\ProductManagement\ProductManagement.Data\obj\Debug\ProductManagement.Data.csprojAssemblyReference.cache

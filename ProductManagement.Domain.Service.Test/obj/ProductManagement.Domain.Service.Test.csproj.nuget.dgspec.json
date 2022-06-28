@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service.Test\\ProductManagement.Domain.Service.Test.csproj": {}
+  },
+  "projects": {
+    "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Data\\ProductManagement.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Data\\ProductManagement.Data.csproj",
+        "projectName": "ProductManagement.Data",
+        "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Data\\ProductManagement.Data.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service.Test\\ProductManagement.Domain.Service.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service.Test\\ProductManagement.Domain.Service.Test.csproj",
+        "projectName": "ProductManagement.Domain.Service.Test",
+        "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service.Test\\ProductManagement.Domain.Service.Test.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packages.nuget.org/v1/FeedService.svc/": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Data\\ProductManagement.Data.csproj": {
+                "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Data\\ProductManagement.Data.csproj"
+              },
+              "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service\\ProductManagement.Domain.Service.csproj": {
+                "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service\\ProductManagement.Domain.Service.csproj"
+              },
+              "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+                "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.Platforms": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview5.19224.8, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.1, )"
+            },
+            "ReportGenerator": {
+              "target": "Package",
+              "version": "[5.1.9, )"
+            },
+            "coverlet.msbuild": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service\\ProductManagement.Domain.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service\\ProductManagement.Domain.Service.csproj",
+        "projectName": "ProductManagement.Domain.Service",
+        "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain.Service\\ProductManagement.Domain.Service.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Data\\ProductManagement.Data.csproj": {
+                "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Data\\ProductManagement.Data.csproj"
+              },
+              "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+                "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "projectName": "ProductManagement.Domain",
+        "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Domain\\ProductManagement.Domain.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Data\\ProductManagement.Data.csproj": {
+                "projectPath": "E:\\New Zealand\\Datacom\\ProductManagement\\ProductManagement.Data\\ProductManagement.Data.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
